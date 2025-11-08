@@ -3,4 +3,6 @@
 
 ## [https://wgx.github.io/storage-lords/](https://wgx.github.io/storage-lords/)
 
+![Storage Lords Box Art](https://wgx.github.io/storage-lords/storage-lords-box-art.jpg)
+
 (Obfuscated code, sorry - no spoilers!)
